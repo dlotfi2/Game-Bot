@@ -26,6 +26,10 @@ showing up in your history.
 
 ## To do:
 
+* Consider mapping game exceptions (like for CSGO and TF2) in a dictionary to replace the else if statements
+
+* When a game isn't found, react to the user's message with a crying emoji.
+
 * <del>Add server counter for DiscordBots.org</del>
 
 * <del>Redirect "TF2" to Team Fortress 2</del>
